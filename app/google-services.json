@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "904013959463",
+    "project_id": "rubel-af757",
+    "storage_bucket": "rubel-af757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904013959463:android:39702c25ed897adb3a5902",
+        "android_client_info": {
+          "package_name": "com.example.rubel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904013959463-0hv9lbk1anfklb41f2sjr4jgf1rnhors.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubel",
+            "certificate_hash": "c8de57db393cb376988876ea36384fe27ad9f8ab"
+          }
+        },
+        {
+          "client_id": "904013959463-b21v3p5eh312gj8hg5n0dfbcdiidhf07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5AFmj0kX8-jUbbvKQaahIglQwqgiXJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904013959463-b21v3p5eh312gj8hg5n0dfbcdiidhf07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
